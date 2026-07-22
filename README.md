@@ -10,7 +10,7 @@ Computer Science student who likes building software, games, and tools.
 
 ## 🧑‍💻 About
 
-- 🎓 Studying Computer Science
+- 🎓 Studying Computer Science @FAST NU
 - 💻 Interested in software development, game development, and problem solving
 - 🌱 Always learning and working on new projects
 
@@ -21,7 +21,7 @@ Computer Science student who likes building software, games, and tools.
 
 ## 🚀 Projects
 
-**[coal-project](https://github.com/abdullahomar5/coal-project)** — Assembly game  
+**[Faisal-Town-Traffic](https://github.com/abdullahomar5/coal-project)** — Assembly game  
 `Assembly`
 
 **[InFitters](https://github.com/abdullahomar5/InFitters)** — AI-powered fitness app  
