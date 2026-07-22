@@ -21,9 +21,9 @@ Computer Science student who likes building software, games, and tools.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahomar5&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdullahomar5&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahomar5&layout=compact&theme=default&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahomar5&layout=compact&theme=default&hide_border=true&langs_count=6)
 
 ## Projects
 
