@@ -1,18 +1,25 @@
-<div align="center">
-
-# Hi, I'm Abdullah Omar
+# 👋 Hi, I'm Abdullah Omar
 
 Computer Science student who likes building software, games, and tools.
 
 > *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
 
-## About
+<div align="center">
+
+## 🧑‍💻 About
 
 - 🎓 Studying Computer Science
 - 💻 Interested in software development, game development, and problem solving
 - 🌱 Always learning and working on new projects
 
-## Projects
+## 📬 Contact
+
+- 📧 Email: [omermabdullah2005@gmail.com](mailto:omermabdullah2005@gmail.com)
+- 💼 LinkedIn: [abdullah-omar](https://www.linkedin.com/in/abdullah-omar-3a50b0254/)
+
+</div>
+
+## 🚀 Projects
 
 **[coal-project](https://github.com/abdullahomar5/coal-project)** — Assembly game  
 `Assembly`
@@ -23,7 +30,7 @@ Computer Science student who likes building software, games, and tools.
 **[insurance-company](https://github.com/abdullahomar5/insurance-company)** — Insurance company system  
 `C++` · `HTML`
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -34,10 +41,8 @@ Computer Science student who likes building software, games, and tools.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahomar5&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdullahomar5&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahomar5&layout=compact&theme=default&hide_border=true&langs_count=6)
-
-</div>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdullahomar5&layout=compact&theme=default&hide_border=true&langs_count=6)
