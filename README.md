@@ -1,18 +1,18 @@
+<div align="center">
+
 # 👋 Hi, I'm Abdullah Omar
 
 Computer Science student who likes building software, games, and tools.
 
 > *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
 
-<div align="center">
+</div>
 
 ## 🧑‍💻 About
 
 - 🎓 Studying Computer Science
 - 💻 Interested in software development, game development, and problem solving
 - 🌱 Always learning and working on new projects
-
-</div>
 
 ## 📬 Contact
 
