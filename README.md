@@ -12,12 +12,12 @@ Computer Science student who likes building software, games, and tools.
 - 💻 Interested in software development, game development, and problem solving
 - 🌱 Always learning and working on new projects
 
+</div>
+
 ## 📬 Contact
 
 - 📧 Email: [omermabdullah2005@gmail.com](mailto:omermabdullah2005@gmail.com)
 - 💼 LinkedIn: [abdullah-omar](https://www.linkedin.com/in/abdullah-omar-3a50b0254/)
-
-</div>
 
 ## 🚀 Projects
 
