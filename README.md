@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/luffy.gif" alt="Luffy Gear 5" width="400" />
+<img src="assets/luffy.gif" alt="Luffy Gear 5" width="600" />
 
 # 👋 Hi, I'm Abdullah Omar
 
