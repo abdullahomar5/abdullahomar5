@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdullah Omar
 
-hii yall!! i love messi,luffy and messi again
+hii yall!! i love messi,luffy, and messi again
 
  *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
 
