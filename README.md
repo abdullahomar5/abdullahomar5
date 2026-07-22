@@ -4,7 +4,7 @@
 
 Computer Science student who likes building software, games, and tools.
 
-> *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
+ *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
 
 </div>
 
