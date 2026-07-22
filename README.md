@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdullah Omar
 
-Computer Science student who likes building software, games, and tools.
+hii yall!! i love messi,luffy and messi again
 
  *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
 
