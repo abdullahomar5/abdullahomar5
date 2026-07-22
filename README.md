@@ -1,12 +1,27 @@
+<div align="center">
+
 # Hi, I'm Abdullah Omar
 
 Computer Science student who likes building software, games, and tools.
+
+> *"As long as I'm still alive, I have infinite chances."* — Monkey D. Luffy
 
 ## About
 
 - 🎓 Studying Computer Science
 - 💻 Interested in software development, game development, and problem solving
 - 🌱 Always learning and working on new projects
+
+## Projects
+
+**[coal-project](https://github.com/abdullahomar5/coal-project)** — Assembly game  
+`Assembly`
+
+**[InFitters](https://github.com/abdullahomar5/InFitters)** — AI-powered fitness app  
+`JavaScript` · `Python` · `CSS` · `HTML`
+
+**[insurance-company](https://github.com/abdullahomar5/insurance-company)** — Insurance company system  
+`C++` · `HTML`
 
 ## Languages & Tools
 
@@ -25,9 +40,4 @@ Computer Science student who likes building software, games, and tools.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahomar5&layout=compact&theme=default&hide_border=true&langs_count=6)
 
-## Projects
-
-- [weatherman](https://github.com/abdullahomar5/weatherman) — Python weather log explorer
-- [Space-Shooter-Game](https://github.com/abdullahomar5/Space-Shooter-Game) — Arcade game in C++
-- [insurance-company](https://github.com/abdullahomar5/insurance-company) — C++ systems project
-- [Faisal-Town-Traffic](https://github.com/abdullahomar5/Faisal-Town-Traffic) — Traffic-related project
+</div>
