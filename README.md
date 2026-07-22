@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/luffy.gif" alt="Luffy Gear 5" width="400" />
+
 # 👋 Hi, I'm Abdullah Omar
 
 hii yall!! i love messi,luffy, and messi again
